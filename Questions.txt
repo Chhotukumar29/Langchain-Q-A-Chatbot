@@ -1,0 +1,13 @@
+1. what is langchian?
+2. what is openai?
+2. what's the profit of openai and gen ai projects?
+4. why should we use '.env' file when working openai projects?
+5. what is python-dotenv?
+6. what is vertex AI?
+7. OpenAI vs HuggingFace output difference?
+8. Questions:
+(A.) We don't call directly prompt in LLM but why?
+(B.) why we need to use langchian.chains import chains calling prompt?
+8. what is SimpleSquentialChain with combining multiple chains?
+9. what is sequential chain?
+10. 
